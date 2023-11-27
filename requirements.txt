@@ -1,5 +1,7 @@
 Pillow
-opencv-python 
+PIL
+opencv-python
+cv2 
 numpy 
 tensorflow 
 tqdm 

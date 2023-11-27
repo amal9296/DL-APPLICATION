@@ -5,6 +5,4 @@ cv2
 numpy
 pandas
 tensorflow
-model_define
 tqdm
-from functions import Basic_functions

@@ -1,7 +1,7 @@
-pickle
-PIL
-cv2
-numpy
-pandas
-tensorflow
-tqdm
+Python 3.10.7
+Pillow 10.1.0
+opencv-python 4.8.1.78
+numpy 1.26.1
+tensorflow 2.14.0
+tqdm 4.66.1
+pandas 2.1.2

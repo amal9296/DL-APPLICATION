@@ -1,4 +1,3 @@
-
 import streamlit as st 
 import pickle 
 from PIL import Image 
@@ -302,5 +301,3 @@ def main():
 
 if __name__ == "__main__":
     main()           
-
-
